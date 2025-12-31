@@ -1,7 +1,9 @@
-//your JS code here. If required.
-function AccioJob() {
+//your JS code here. If requ
+function functionName() {
   alert(arguments.callee.name);
 }
 
-AccioJob();
+// Call the function
+functionName();
+
 // alert shows: AccioJob
